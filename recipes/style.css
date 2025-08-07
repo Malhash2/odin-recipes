@@ -14,10 +14,17 @@ p {
 
 li {
 	text-align: center;
-	list-style-type: none;
+	list-style-position: inside;
+	font-size: 26px;
 }
 
 img {
 	display: block;
 	margin: auto;
+}
+
+a {
+	display: block;
+	font-size: 40px;
+	text-align: center;
 }
